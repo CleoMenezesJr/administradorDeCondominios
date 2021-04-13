@@ -1,0 +1,3 @@
+[02-Feb-2021 06:40:54 UTC] PHP Fatal error:  Call to a member function fetch() on boolean in /home/practica2020tech/public_html/gerenciadorCondominios/src/listaPropietarios.php on line 52
+[02-Feb-2021 06:51:04 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/practica2020tech/public_html/gerenciadorCondominios/src/listaPropietarios.php on line 51
+[02-Feb-2021 06:52:10 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/practica2020tech/public_html/gerenciadorCondominios/src/listaPropietarios.php on line 51
